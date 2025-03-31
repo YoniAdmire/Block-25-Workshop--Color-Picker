@@ -1,1 +1,3 @@
-# Block-25-Workshop--Color-Picker
+# 🎨 Color Picker
+
+Follow the instructions in the workshop to finish the assignment!
